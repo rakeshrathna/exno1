@@ -21,17 +21,28 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-![Screenshot 2025-04-18 102509](https://github.com/user-attachments/assets/f88edde2-de5c-4cc3-a4f0-5f7f5ee888a9)
-![Screenshot 2025-04-18 102532](https://github.com/user-attachments/assets/059d9057-0334-4b25-b118-f42423233d38)
-![Screenshot 2025-04-18 102557](https://github.com/user-attachments/assets/1101b033-eefb-41e1-9d21-dd4029d64e1f)
-![Screenshot 2025-04-18 102626](https://github.com/user-attachments/assets/a15c82b6-598e-4fe7-962f-0d13ebf927ca)
-![Screenshot 2025-04-18 102647](https://github.com/user-attachments/assets/364b457f-5773-4386-ae45-ad5117783dae)
-![Screenshot 2025-04-18 102801](https://github.com/user-attachments/assets/cfe3b00a-c569-4a54-b526-f8c12da38266)
-![Screenshot 2025-04-18 102825](https://github.com/user-attachments/assets/fb683291-f42b-43d4-ab52-69482c7eab18)
-![Screenshot 2025-04-18 102844](https://github.com/user-attachments/assets/b7354dcb-6c0b-4a18-b068-b383eed1e0b2)
-![Screenshot 2025-04-18 102900](https://github.com/user-attachments/assets/bb5c5b11-df07-482f-8b57-b89a52df4643)
-![Screenshot 2025-04-18 103005](https://github.com/user-attachments/assets/e1dec820-a681-4767-876c-52614096c23f)
-![Screenshot 2025-04-18 103019](https://github.com/user-attachments/assets/1c803c45-ed84-4bae-99a7-9d5d34010f4e)
+
+![DS exp 1 ipynb - Colabbb_page-0001](https://github.com/user-attachments/assets/586b8869-c711-4f3e-8912-f999b4eaab51)
+![DS exp 1 ipynb - Colabbb_page-0002](https://github.com/user-attachments/assets/46426b4f-ed16-479d-92d0-90b3188f57f8)
+![DS exp 1 ipynb - Colabbb_page-0003](https://github.com/user-attachments/assets/7799f2f9-4f0e-406c-beb3-d0eb48ca2da9)
+![DS exp 1 ipynb - Colabbb_page-0004](https://github.com/user-attachments/assets/2917608e-9d33-40b8-ac90-cfbda3917080)
+![DS exp 1 ipynb - Colabbb_page-0005](https://github.com/user-attachments/assets/200e58fa-977a-4876-9427-b9676808d26b)
+![DS exp 1 ipynb - Colabbb_page-0006](https://github.com/user-attachments/assets/e81f42f9-efdc-4713-b641-bf60b0c4ea34)
+![DS exp 1 ipynb - Colabbb_page-0007](https://github.com/user-attachments/assets/b4503b40-2990-4360-bddb-eb6b6201f74d)
+![DS exp 1 ipynb - Colabbb_page-0008](https://github.com/user-attachments/assets/e7257423-ec12-4038-8cd8-ba828396db0b)
+![DS exp 1 ipynb - Colabbb_page-0009](https://github.com/user-attachments/assets/bd073d91-0f33-4829-a086-76757e6897b0)
+![DS exp 1 ipynb - Colabbb_page-0010](https://github.com/user-attachments/assets/e0f2ec61-29ee-4f74-9bd8-4d0ae04b7b96)
+![DS exp 1 ipynb - Colabbb_page-0011](https://github.com/user-attachments/assets/eb53854b-50a8-4577-a3cd-0788c87e0384)
+![DS exp 1 ipynb - Colabbb_page-0012](https://github.com/user-attachments/assets/a993698a-1e33-4185-83ed-f15940f55d37)
+![DS exp 1 ipynb - Colabbb_page-0013](https://github.com/user-attachments/assets/4da7535a-b8f6-40a6-b867-6e16ab72035e)
+![DS exp 1 ipynb - Colabbb_page-0014](https://github.com/user-attachments/assets/ab849e89-4654-4ab9-a802-507a0d0fdfb2)
+
+
+
+
+
+
+
 
 
 
